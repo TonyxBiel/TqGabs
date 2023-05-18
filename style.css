@@ -61,19 +61,21 @@ body{
 }
 .estudante-titulo{
     text-align: center;
-    padding: 5% 0;
+    padding: 35px 0;
 }
 .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
+    padding: 10px 0;
 }
 footer{
     background-color: black;
-    padding: 15px 0;
+    padding: 25px 0;
     text-align: center;
 }
-.estudante.titulo{
-    background-color: linear-gradient(red, black);
+.estudante{
+    background-image: linear-gradient(red, black);
+    color: white;
 }
 
 
